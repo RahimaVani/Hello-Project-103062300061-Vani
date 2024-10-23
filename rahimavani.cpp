@@ -6,6 +6,7 @@
 #include <sstream>
 using namespace std;
 
+// komentar
 struct Aset {
     string nama;
     string jenis;
